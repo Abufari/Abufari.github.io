@@ -2,3 +2,4 @@ title: Ultrasonics
 description: An overview over ultrasonic techniques
 theme: jekyll-theme-cayman
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
